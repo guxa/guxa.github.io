@@ -1,4 +1,4 @@
-const GTC_ABI_PATH = "../build/contracts/GoodTimesContract.json";
+const GTC_ABI_PATH = "./GoodTimesContract.json";
 let goodTimesContract;
 var web3;
 let network;
